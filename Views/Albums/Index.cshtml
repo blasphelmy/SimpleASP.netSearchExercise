@@ -1,0 +1,81 @@
+﻿@model List<Album>
+@{
+    ViewData["Title"] = "Catalog";
+}
+<script>
+var urlParameters = new Map();
+window.onload = function(){
+    document.getElementById("searchButton").addEventListener("click", function(){
+        let URL = parseIntoUrl(getSearchTerm())
+        window.location.href = URL;
+    });
+    var headers = document.getElementsByClassName("albumHeaders");
+    for(header of headers){
+        header.addEventListener("click", function(){
+            window.location.href = "?price=" + urlParameters.get("price") + "&sort=" + this.id;
+        })
+    }
+}
+function onPriceChange(){
+        window.location.href = "?price="+document.getElementById("sel").value + "&sort=" + urlParameters.get("sort");
+}
+function parseIntoUrl(searchString){
+    return "Albums/Search?term=" + searchString;
+}
+function getSearchTerm(){
+    return JSON.stringify(document.getElementById("searchbox").value);
+}
+</script>
+<br><br><br>
+<div class="form-group">
+    <label class="control-label">Filter by Price</label>
+    <select onchange="onPriceChange()" asp-items="@ViewBag.SelectListPrices" class="form-control" id="sel"></select>
+    <span class="text-danger"></span>
+</div>
+<script>
+var options = document.getElementsByTagName("option");
+function extractURLParems(){
+    urlParameters.set("price", "0");
+    urlParameters.set("sort", "0");
+    try{
+        let parameters = window.location.href.split("?")[1].split("&");
+        for(parameter of parameters){
+            let keyValue = parameter.split("=");
+            urlParameters.set(keyValue[0], keyValue[1]);
+        }
+    }catch(error){
+        console.log(error);
+    }
+    console.log(urlParameters);
+}
+extractURLParems();
+for(option of options){
+    if(option.value == urlParameters.get("price")){
+        option.selected = "selected";
+    }
+}
+
+</script>
+<table class="table table-responsive table-striped">
+    <tr>
+        <th><a id="1" class="albumHeaders">ID</a></th>
+        <th><a id="4" class="albumHeaders">Title</a></th>
+        <th><a id="3" class="albumHeaders">Artist</a></th>
+        <th><a id="5" class="albumHeaders">Genre</a></th>
+        <th><a id="2" class="albumHeaders">Price</a></th>
+    </tr>
+    @foreach(Album album in @Model)
+    {
+            <tr>
+            <td>@album.Id</td>
+            <td>@album.Title</td>
+            <td>@album.Artist</td>
+            <td>@album.Genre</td>
+            <td>@album.Price</td>
+        </tr>
+    }
+</table>
+<script>
+
+
+</script>

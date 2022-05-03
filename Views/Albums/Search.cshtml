@@ -1,0 +1,44 @@
+@model IEnumerable<SearchResultModel>
+@{
+    ViewData["Title"] = "Search Results";
+}
+<script>
+window.onload = function(){
+    document.getElementById("searchButton").addEventListener("click", function(){
+        var URL = parseIntoUrl(getSearchTerm())
+        console.log(URL);
+        window.location.href = URL;
+    });
+}
+function parseIntoUrl(searchString){
+    return "Search?term="+searchString;
+}
+function getSearchTerm(){
+    return JSON.stringify(document.getElementById("searchbox").value);
+}
+</script>
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Artist</th>
+        <th>Genre</th>
+        <th>Price</th>
+        <th>Edit</th>
+    </tr>
+    @foreach(SearchResultModel resultFound in @Model)
+    {
+        <tr>
+            <td>@resultFound.result.Id</td>
+            <td>@resultFound.result.Title</td>
+            <td>@resultFound.result.Artist</td>
+            <td>@resultFound.result.Genre</td>
+            <td>@resultFound.result.Price</td>
+            <td><a asp-action="Edit" asp-route-id="@resultFound.result.Id">Edit</a></td>
+        </tr>
+    }
+</table>
+@* @if(@Model.length == 0 ||@Model.Count == 0){
+    <p>Nothing found</p>
+} *@

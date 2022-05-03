@@ -1,0 +1,5 @@
+A simple search function through a list using asp.net. 
+
+To run: 
+cd into root
+run command dotnet run

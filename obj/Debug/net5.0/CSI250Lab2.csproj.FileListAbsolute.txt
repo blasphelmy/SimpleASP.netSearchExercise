@@ -1,0 +1,123 @@
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/appsettings.Development.json
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/appsettings.json
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.deps.json
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.json
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.dev.json
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.Views.dll
+/Users/davidnguyen/Desktop/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csprojAssemblyReference.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.AssemblyInfoInputs.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.AssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csproj.CoreCompileInputs.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.Manifest.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.xml
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/scopedcss/bundle/CSI250Lab2.styles.css
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.TagHelpers.input.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.TagHelpers.output.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorCoreGenerate.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.genruntimeconfig.cache
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csproj.CopyComplete
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Index.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Search.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Edit.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Create.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/appsettings.Development.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/appsettings.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.deps.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.dev.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.Views.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/bin/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csprojAssemblyReference.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.AssemblyInfoInputs.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.AssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csproj.CoreCompileInputs.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.Manifest.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.xml
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/scopedcss/bundle/CSI250Lab2.styles.css
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.TagHelpers.input.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.TagHelpers.output.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorCoreGenerate.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Create.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Edit.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Index.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Albums/Search.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.genruntimeconfig.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab2/obj/Debug/net5.0/CSI250Lab2.csproj.CopyComplete
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/appsettings.Development.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/appsettings.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.deps.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.runtimeconfig.dev.json
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.Views.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/bin/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.csprojAssemblyReference.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.AssemblyInfoInputs.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.AssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.csproj.CoreCompileInputs.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.RazorAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.Manifest.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/staticwebassets/CSI250Lab2.StaticWebAssets.xml
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/scopedcss/bundle/CSI250Lab2.styles.css
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.TagHelpers.input.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.TagHelpers.output.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.RazorCoreGenerate.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Albums/Create.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Albums/Edit.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Albums/Index.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Albums/Search.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.RazorTargetAssemblyInfo.cs
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.Views.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/ref/CSI250Lab2.dll
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.pdb
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.genruntimeconfig.cache
+/Users/davidnguyen/Desktop/CSI 250/CSI250Lab3/obj/Debug/net5.0/CSI250Lab2.csproj.CopyComplete
